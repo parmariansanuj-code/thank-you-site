@@ -48,10 +48,10 @@ export default function RestartOverlay({ show, onRestart }) {
               transition={{ delay: 0.8, duration: 1.5 }}
               className="text-5xl md:text-6xl font-black text-white mb-8 leading-tight"
             >
-              Thank you for being
+              ब्रज की ग्वालिन को धन्यवाद
               <br />
               <span className="bg-gradient-to-r from-pink-300 via-fuchsia-300 to-purple-300 bg-clip-text text-transparent">
-                my favorite person!
+                श्रीपदा!
               </span>
             </motion.h2>
 
