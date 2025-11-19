@@ -82,7 +82,7 @@ export default function HugOverlay({ show, onClose }) {
               transition={{ delay: 1.3, duration: 1 }}
               className="text-gray-700 text-xl mb-8 font-bold relative z-10 leading-relaxed flex flex-col items-center justify-center gap-2"
             >
-              I wish I could hug you forever… because I love you endlessly.
+              राधारानी जू आपको हमेशा खुश रखे …क्या मतलब ब्रजवासी को हमेशा खुश रखती है .
               <Heart size={20} fill="currentColor" className="text-pink-500" />
             </motion.p>
 
