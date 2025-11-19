@@ -9,15 +9,17 @@ export default function FourthScreen({ onShowOverlay }) {
   const [showButton, setShowButton] = useState(false)
   const scrollRef = useRef(null)
 
-  const specialMessage = `My dearest love,
+  const specialMessage = प्रिय श्रीपदा जी ,
 
-Every day with you feels like a beautiful dream that I never want to wake up from. You've brought so much joy, laughter, and love into my life that I can't imagine a world without you in it.
+मैं तुम्हें दिल से धन्यवाद कहना चाहता हूं। तुम्हारी मदद और समर्थन के बिना मैं इतना आगे नहीं बढ़ पाता। तुम्हारी प्यार और समझदारी ने मेरे जीवन को समृद्ध बनाया है। मैं तुम्हारे साथ बिताए हर पल को संजोता हूं। तुम्हारी उपस्थिति मेरे जीवन में एक प्रकाश की किरण है जो मेरे हर दिन को रोशन करती है।
 
-Your smile lights up my darkest days, your laugh is my favorite melody, and your love is my greatest treasure. Thank you for being you - for being patient with me, for supporting my dreams, for making ordinary moments feel extraordinary.
+तुम्हारी सहायता और प्रेरणा ने मुझे हर चुनौती का सामना करने की शक्ति दी है। तुम्हारे साथ, मैं किसी भी मुश्किल का सामना करने के लिए तैयार हूं। तुम्हारा प्यार और समर्थन मेरे लिए सबसे बड़ा उपहार है।
 
-You are my best friend, my partner in crime, my safe haven, and my greatest adventure all rolled into one amazing person. I am so grateful that the universe brought us together.
+मैं तुम्हें धन्यवाद कहना चाहता हूं कि तुम मेरे जीवन में हो और मुझे इतना प्यार और समर्थन देती हो। मैं तुम्हारे साथ हर पल को और भी सुंदर बनाने की कोशिश करूंगा। तुम्हारी खुशी मेरी खुशी है, और मैं तुम्हें हमेशा खुश रखने की कोशिश करूंगा।
 
-I love you more than words can express, more than actions can show, and more than time can measure. You are my forever and always.`
+तुम्हारी प्यार भरी बातें, तुम्हारी मुस्कान, और तुम्हारी उपस्थिति मेरे जीवन को समृद्ध बनाती है। मैं तुम्हारे बिना जीवन की कल्पना नहीं कर सकता। मैं तुम्हे प्यार करता हूं और हमेशा तुम्हारे साथ रहने की कामना करता हूं।
+
+धन्यवाद, मेरी प्रिय। मैं तुम्हे प्यार करता हूं।.`
 
   const endingText = "There’s one last thing I wish could last forever…"
 
