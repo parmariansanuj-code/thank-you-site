@@ -64,7 +64,7 @@ export default function FirstScreen({ onNext }) {
                     transition={{ duration: 5, repeat: Number.POSITIVE_INFINITY }}
                     style={{ backgroundSize: "200% 200%" }}
                 >
-                   Shreepada Roy, I want to say something
+                   bahan ke bhosade Ankit, I want to say something
                 </motion.h1>
                 <motion.p
                     className="text-2xl md:text-3xl font-bold text-gray-700 flex items-center justify-center gap-2"
